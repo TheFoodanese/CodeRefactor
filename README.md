@@ -1,4 +1,4 @@
-# Module 1
+# BootCamp Module 1
 
 ## Contents
 
