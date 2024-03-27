@@ -10,6 +10,9 @@ This project is a refactoring exercise aimed at improving the accessibility stan
 ## Screenshots
 
 
+
+
+
 ## Deployed Application
 [Live URL of the deployed application]
 
